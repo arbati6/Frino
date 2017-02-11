@@ -18,7 +18,7 @@ Use in the website and CSS
 - attach font to html and use unicode or...
 - paste the downloaded files to your website folder
 - and add this line of code into your HTML:
-  <link href="css/frinostyle.min.css" rel="stylesheet">
+  &lt;link href="css/frinostyle.min.css" rel="stylesheet"&gt;
 - you can add the class to the element in HTML and
   thus the icon you want is automatically imported.
   Icon name is also the name of the CSS class.
