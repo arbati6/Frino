@@ -1,24 +1,28 @@
 # Frino
 Frino font - 300+ UI pictograms. Use Frino where you want, commercially or privately
 
-<a href="http://www.rafalfuczynski.com/frino/icons/">Icons list</a>
+Latest Ver. 0.7.7 Beta 
+
+<a href="http://www.rafalfuczynski.com/frino/icons/">**ICONS LIST**</a>
 # HOW TO USE
 Download and install
-- click download and unpack the downloaded file
-- in folder fonts select any font
+- download font file
 - right-click and choose "install" in the context menu
 
 Copy and paste
-- select any icon
+- select any icon from list
 - copy and paste it into any graphics program or
   office
 - select "Frino" in the fonts list
 
 Use in the website and CSS
-- attach font to html and use unicode or...
+- attach font to document and use unicode or...
 - paste the downloaded files to your website folder
 - and add this line of code into your HTML:
-  &lt;link href="css/frinostyle.min.css" rel="stylesheet"&gt;
+  &lt;link href="frinostyle.min.css" rel="stylesheet"&gt;
 - you can add the class to the element in HTML and
   thus the icon you want is automatically imported.
   Icon name is also the name of the CSS class.
+
+CDN
+- soon
