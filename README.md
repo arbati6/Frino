@@ -1,7 +1,7 @@
 # Frino
 Frino font - 300+ UI pictograms. Use Frino where you want, commercially or privately
 
-Latest Ver. 0.7.7 Beta 
+Latest Ver. 0.8.0 Beta 
 
 <a href="http://www.rafalfuczynski.com/frino/icons/">**ICONS LIST**</a>
 ### How to use
@@ -25,4 +25,4 @@ Use in the website and CSS
   Icon name is also the name of the CSS class.
 
 CDN
-- soon
+&lt;link href="https://cdn.jsdelivr.net/font-frino/0.8.0/frinostyle.min.css" rel="stylesheet"&gt;
