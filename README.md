@@ -25,4 +25,5 @@ Use in the website and CSS
   Icon name is also the name of the CSS class.
 
 CDN
+
 &lt;link href="https://cdn.jsdelivr.net/font-frino/0.8.0/frinostyle.min.css" rel="stylesheet"&gt;
