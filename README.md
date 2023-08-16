@@ -3,7 +3,7 @@ Frino font - 300+ UI pictograms. Use Frino where you want, commercially or priva
 
 Latest Ver. 1.0.1
 
-<a href="http://www.rafalfuczynski.com/frino/icons/">**ICONS LIST**</a>
+<a href="http://www.rafalfuczynski.com/frino/">**ICONS LIST**</a>
 ### How to use
 Download and install
 - download font file
